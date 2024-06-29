@@ -1,9 +1,10 @@
 ### Hi there 👋
 # myth_Frank_
 
-> I'm currently working on python, frontends, and cpps 
+> I'm currently working on python, frontends, and cpps
 
-$ still learning.....
+################################## I'm still learning.....
+
 <!--
 **myth-Frank/myth-Frank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
