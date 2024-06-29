@@ -1,4 +1,11 @@
 ### Hi there 👋
+# backup_
+  my first ever repository on github()
+  
+
+#CHANGELOG
+  > 2024.06.29
+    > created the CHANGELOG thingy
 
 <!--
 **myth-Frank/myth-Frank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
